@@ -3,7 +3,7 @@ GBDT on Donors Choose Dataset (NLP)
 <ol>
     <li><strong>Applying GBDT on these feature sets</strong>
         <ul>
-            <li><font color='red'>Set 1</font>: categorical(encoded using response coding: using probability values), numerical features + project_title(TFIDF)+  preprocessed_eassay (TFIDF)+sentiment Score of eassay(check the bellow example, include all 4 values as 4 features)</li>
+            <li><font color='red'>Set 1</font>: categorical(encoded using response coding: using probability values), numerical features + project_title(TFIDF)+  preprocessed_eassay (TFIDF)+sentiment Score of essay</li>
             <li><font color='red'>Set 2</font>: categorical(encoded using response coding: using probability values), numerical features + project_title(TFIDF W2V)+  preprocessed_eassay (TFIDF W2V)</li>        </ul>
     </li>
     <br>
